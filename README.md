@@ -100,26 +100,20 @@ cv2.destroyAllWindows()
 ## Output
 
 ### i) Write the frame as JPG image
-</br>
-</br>
+![output](https://github.com/Sucharithachowdary/Image-acquisition-from-web-camera/blob/main/OPT-1.jpg?raw=true)
 
 
 ### ii) Display the video
-</br>
-</br>
+![output](https://github.com/Sucharithachowdary/Image-acquisition-from-web-camera/blob/main/OPT2.jpg?raw=true)
 
 
 ### iii) Display the video by resizing the window
-</br>
-</br>
+![output](https://github.com/Sucharithachowdary/Image-acquisition-from-web-camera/blob/main/otp%203.jpg?raw=true)
 
 
 
 ### iv) Rotate and display the video
-</br>
-</br>
-
-
+![output](https://github.com/Sucharithachowdary/Image-acquisition-from-web-camera/blob/main/otp%204.jpg?raw=true)
 
 
 
